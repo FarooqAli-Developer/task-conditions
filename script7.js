@@ -35,11 +35,3 @@ else {
     console.log("Your net monthly salary is: PKR", (annualSalary - tax) / 12)
 
     alert("Your annual tax is: PKR " + tax + "\nYour net salary is: PKR " + netSalary);
-
-//     echo "# task-conditions" >> README.md
-// git init
-// git add README.md
-// git commit -m "first commit"
-// git branch -M main
-// git remote add origin https://github.com/FarooqAli-Developer/Baba-food.git
-// git push -u origin main
